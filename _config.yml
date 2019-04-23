@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for expeditionary and offgrid computing needs.  We offer a full line of configurations
   and personnel tracker accessories
   for security, public safety, and expedition use.
-baseurl: /Parachute-site
+baseurl: /
 url: https://azimuth1.github.io
 twitter_username: Azimuth1Tech
 github_username: azimuth1
